@@ -10,6 +10,8 @@ not memorized wording. A more involved twist on Anki/spaced repetition.
 
 | File | What it covers |
 |---|---|
+| [roadmap.md](roadmap.md) | The chosen direction — research-led, product-bound — and the phased plan to hit ML/AI, community, and startup markers. |
+| [research.md](research.md) | The research/benchmark track (synthetic student + leaderboard + judge) — the public ML/AI artifact, built first. |
 | [scenario.md](scenario.md) | The universal "50/50 gut-feeling" moment the product is built around (also the marketing narrative). |
 | [decisions.md](decisions.md) | Authoritative scope, locked decisions, tech stack, the reference pipeline. |
 | [inference.md](inference.md) | The misconception-inference pipeline — the core IP. |
